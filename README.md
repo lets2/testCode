@@ -1,1 +1,3 @@
-# Curso digital - Git
+# Curso digital - Git/versionamento
+
+## Mudanças aplicadas nesse arquivo
